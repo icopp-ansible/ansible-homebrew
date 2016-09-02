@@ -1,6 +1,6 @@
 galaxy_info:
   author: Ian Copp
-  description: Install the [`mas-cli`](https://github.com/argon/mas) utility and log in with it. Does nothing on non-macOS platforms.
+  description: Install the mas-cli utility and log in with it. Does nothing on non-macOS platforms.
   license: MIT
   min_ansible_version: 1.2
   platforms:
