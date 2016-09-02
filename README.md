@@ -7,7 +7,6 @@ Install Homebrew. Does nothing on non-macOS platforms.
 * Ruby
 
 ## Example Playbook
-----------------
 
 ```
   - hosts: all
