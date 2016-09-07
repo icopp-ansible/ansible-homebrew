@@ -1,6 +1,6 @@
 # ansible-homebrew
 
-Install Homebrew. Does nothing on non-macOS platforms.
+Install Homebrew.
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Install Homebrew. Does nothing on non-macOS platforms.
 ```
   - hosts: all
     roles:
-      - homebrew
+      - role: icopp.homebrew
 ```
 
 ## License
